@@ -96,7 +96,7 @@ The Cookies Shop has grown rapidly, but management noticed fluctuations in reven
 ---
 
 ## 🎥 Project Demo  
-[![Watch the Demo](assets/video.mp4?raw=true)](assets/video.mp4?raw=true)
+<img src="assets/video.gif?raw=true" width="1000">
 
 ---
 
