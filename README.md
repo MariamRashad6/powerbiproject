@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/banner.png?raw=true" alt="Cookies Dashboard Banner" width="1000" height="500">
+  <img src="assets/customer_report.png?raw=true" alt="Cookies Dashboard Banner" width="1000" height="500">
 </div>
 
 ---
@@ -85,18 +85,18 @@ The Cookies Shop has grown rapidly, but management noticed fluctuations in reven
 ---
 
 ## 📐 Data Model  
-![Data Model](https://github.com/your-username/your-repo/blob/main/assets/data-model.png?raw=true)
+![Data Model](assets/model_view.png?raw=true)
 
 ---
 
 ## 📈 Dashboard Preview  
-<img src="https://github.com/your-username/your-repo/blob/main/assets/dashboard-1.png?raw=true" width="1000">
-<img src="https://github.com/your-username/your-repo/blob/main/assets/dashboard-2.png?raw=true" width="1000">
-
+<img src="assets/customer_report.png?raw=true" width="1000">
+<img src="assets/home_report.png?raw=true" width="1000">
+<img src="assets/product_report.png?raw=true" width="1000">
 ---
 
 ## 🎥 Project Demo  
-[![Watch the Demo](https://github.com/your-username/your-repo/blob/main/assets/demo-thumbnail.png?raw=true)](https://github.com/your-username/your-repo/blob/main/assets/demo.mp4?raw=true)
+[![Watch the Demo](assets/video.mp4?raw=true)](assets/video.mp4?raw=true)
 
 ---
 
